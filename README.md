@@ -12,4 +12,12 @@
  
   ## 2. zombies escape game
  
- ## TODO
+ ## Select
+ ![1](https://user-images.githubusercontent.com/11635700/80928063-b6db3f00-8daa-11ea-9b47-f7c22a9271b8.JPG)
+  ## Train
+![2](https://user-images.githubusercontent.com/11635700/80928064-b773d580-8daa-11ea-8f38-7160d631f227.JPG)
+ ## List
+![3](https://user-images.githubusercontent.com/11635700/80928065-b8a50280-8daa-11ea-96c8-dc1a341840cd.JPG)
+ ## Test
+![6](https://user-images.githubusercontent.com/11635700/80928066-b93d9900-8daa-11ea-8b0c-5170ab24d25e.JPG)
+
