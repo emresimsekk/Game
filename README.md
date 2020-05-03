@@ -10,7 +10,7 @@
  ## Test
  ![3](https://user-images.githubusercontent.com/11635700/80548253-2d4efa00-89c3-11ea-991d-cf335b9ae519.JPG)
  
-  ## 2. zombies escape game
+  ## 2.Journey The School game
  
  ## Select
  ![1](https://user-images.githubusercontent.com/11635700/80928063-b6db3f00-8daa-11ea-9b47-f7c22a9271b8.JPG)
